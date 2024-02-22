@@ -1,4 +1,4 @@
-### Hi there I am Carter Herman a computer science major at Northeastern University 👋
+### Hi, I am Carter Herman a computer science major at Northeastern University. 👋
 
 <!--
 **cherman23/cherman23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
